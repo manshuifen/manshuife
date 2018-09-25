@@ -1,0 +1,145 @@
+@charset "UTF-8";
+/* 头*/
+    #header_div{
+       width:1900px;
+       height: 80%;
+       background: linear-gradient(-134.2deg,#454545,#27408B);
+       padding: 15px 0;
+       position: relative;
+       background-color:rgba(0,0,0,0.2);
+      
+    }
+    .header_p{
+    display: inline-block;
+    margin-left: 35px;
+    color: #fff;
+    line-height: 28px;
+    font-size: 35px;
+ }
+    
+    
+    #header_span{
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 20px;
+    color: #fff;
+    top:10px;
+   
+}
+ #header_div2{
+    margin-top: 30px;
+    font-size: 14px;
+    color: #fff;
+    line-height: 20px;
+    font-weight: 200;
+    position:absolute;
+    top:2px;
+    left: 1568px;
+ }
+  #a{
+  color: white;
+   }
+   
+   /*正文-体*/
+    #hgroup_div{
+    width: 1540px;
+  
+   }
+
+ #hgroup_img{
+   
+    background-size: cover;
+    width: 1900px;
+    height: 1100px;
+    border: 0;
+ }
+ #hgroup_div2{
+    background: #fff;
+    width: 370px;
+    height:374px;
+    position: absolute;
+    top: 32%;
+    right: 211px;
+    border-radius: 4px;
+    margin-right: 60px;
+    float: right;
+    background-color:rgba(0,0,0,0.4);
+}
+  #hgroup_p{
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+  }
+ .hgroup_text{
+     display: block;
+  margin:10px 20px ;
+    padding: 10px 20px;
+    background-color: #f4f4f4;
+    border-radius: 4px;
+    font-size: 14px;
+ } 
+ .hgroup_1{
+  font-size: 14px;
+  color: #D4D4D4;
+ }   
+ #hgroup_button{
+    height: 40px;
+    line-height: 40px;
+    white-space: nowrap;
+    padding: 0 20px;
+    color: #fff;
+    width: 290px;
+    background-color: #63B8FF;
+    border: 0;
+    border-radius: 4px;
+    margin: 30px;
+ }
+ #hgroup_a{
+      cursor:pointer;
+      font-size: 20px;
+      color:#5CACEE;
+      margin: 145px;
+      text-decoration: none;
+      font-family: Microsoft YaHei；
+ }
+   /*脚*/
+  /* 尾部第一部分的div样式 */
+	#city{
+		width: 1280px;/* 设置底部的城市宽度属性为1280px */
+		margin: 0 auto;/* 设置外边距为0  居中 */
+		font-size: 16px;/* 设置字体带下为16px */
+		text-align: center;/* 设置文字居中 */
+		padding: 20px;/* 设置没内边框上下左右为20px*/
+		}
+	#city a{
+		text-decoration: none;/* 去掉下横线 */
+		color: #666666;/* 设置城市属性的颜色 */
+	}
+	
+	#side{
+		width: 1280px;/* 设置关于我们  联系我们的...宽度 */
+		margin: 0 auto;/* 设置关于我们  联系我们的...外边距 */
+		overflow: hidden;/* 设置关于我们  联系我们的...溢出 */
+		text-align: center;/* 设置关于我们  联系我们的...文字居中 */
+		padding: 20px;/* 设置关于我们  联系我们的...内边框 */
+		/* border: 1px solid red; */
+		
+
+	}
+	.assist{
+	border-right: 1px solid #CCC;
+	}
+	#hr{
+		width: 1110px;/* 设置底部的hr的宽度 */
+		margin: 0 auto;/* 居中它的宽度 */
+		
+	}
+	#side a{
+	text-decoration: none;/* 去掉下横线 */
+	color: #210707/* 设置关于我们  联系我们的...属性的颜色 */
+	
+	}
+	#side p{
+		font-size: 15px;
+	}
